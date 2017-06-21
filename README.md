@@ -1,3 +1,9 @@
+---
+title: Tutorial on Neural Networks and TensorFlow
+description: This is my tutorial
+date: 06-20-2017
+---
+
 # Machine Learning Tutorials
 
 This repository contains tutorials that are related to different machine learning concepts, tools and algorithms.
